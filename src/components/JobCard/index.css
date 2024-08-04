@@ -1,0 +1,75 @@
+.card-link {
+  text-decoration: none;
+  width: 90%;
+}
+.card-list-item-container {
+  background-color: #222222;
+  border-radius: 10px;
+  padding: 10px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.companyLogo-title-container {
+  display: flex;
+}
+
+.job-card-company-logo {
+  width: 50px;
+  height: 50px;
+  align-self: center;
+  margin-right: 20px;
+}
+
+.job-card-title {
+  font-family: Roboto;
+  color: #f8f8f8;
+  font-size: 25px;
+}
+.job-card-rating {
+  color: #f8f8f8;
+  font-family: Roboto;
+  font-weight: bold;
+}
+.star-icon {
+  color: #fbbf24;
+}
+.location-salary-list-container {
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.location-employmentType-list-item {
+  display: flex;
+  width: 30%;
+  justify-content: space-between;
+}
+.location-icon-container {
+  display: flex;
+  justify-content: space-between;
+}
+.location-icon {
+  color: #f8f8f8;
+  margin-right: 10px;
+  align-self: center;
+}
+.location-para {
+  font-family: Roboto;
+  color: #f8f8f8;
+  align-self: center;
+}
+
+hr {
+  border-color: #7e858e;
+}
+.job-card-desc {
+  font-family: Roboto;
+  color: #f8f8f8;
+  font-size: 20px;
+}
+.team-card-Description-para {
+  font-family: Roboto;
+  color: #f8f8f8;
+}

@@ -1,0 +1,63 @@
+.jobs-whole-bg-container {
+  background-color: #000000;
+  width: 100%;
+  min-height: 100vh;
+}
+.filters-job-card-container {
+  display: flex;
+  padding: 30px;
+  padding-left: 60px;
+  width: 100%;
+}
+.profile-filter-container {
+  width: 30%;
+  margin-right: 30px;
+}
+.team-card-container {
+  width: 65%;
+}
+.input-search-ele {
+  background-color: transparent;
+  outline: none;
+  padding: 5px;
+  width: 50%;
+  border-radius: 5px;
+  border: 1px solid #7e858e;
+  color: #f8f8f8;
+}
+.search-icon-btn {
+  background-color: #272727;
+  padding: 5px;
+  width: 5%;
+  outline: none;
+  border: 1px solid #7e858e;
+  border-radius: 5px;
+}
+.search-icon {
+  color: #f8f8f8;
+}
+.job-card-list-container {
+  margin-left: 0px;
+  padding-left: 0px;
+  list-style-type: none;
+}
+.no-jobs-Found-container {
+  width: 100%;
+  min-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.no-jobs-img {
+  width: 50%;
+}
+.no-job-Found-head {
+  font-family: Roboto;
+  color: #f8f8f8;
+}
+
+.no-job-Found-para {
+  color: #f8f8f8;
+  font-family: Roboto;
+}

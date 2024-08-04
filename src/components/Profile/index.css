@@ -1,0 +1,26 @@
+.profile-name {
+  font-family: Roboto;
+  color: #6366f1;
+  font-size: 20px;
+}
+.profile-bio {
+  color: #7e858e;
+  font-family: Roboto;
+  font-size: 15px;
+}
+.profile-name-bio-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  width: 100%;
+  background-size: cover;
+  border-radius: 30px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+hr {
+  border-color: #7e858e;
+}
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,17 @@
+.type-of-employment-head {
+  font-family: Roboto;
+  color: #f8fafc;
+  font-size: 20px;
+}
+.checkbox-label {
+  color: #f8fafc;
+  font-family: Roboto;
+}
+.employment-Type-list-container {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+
+.checkbox-label-list-item-container {
+  margin-bottom: 10px;
+}
